@@ -17,7 +17,6 @@ Recomendação 2: Caso tenham dificuldade, procurem resolver primeiro as funcion
 Recomendação 3: Coloquem o código no git e façam exercícios de criação de branches(para cada funcionalidade adicionada). Não subestimem o poder e o leque de possibilidades dado por um sistema de versionamento bem organizado.*/
 //import functions
 import java.util.Scanner;
-import java.util.Hashtable;
 import java.util.List;
 import java.util.ArrayList;
 
